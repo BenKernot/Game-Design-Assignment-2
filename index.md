@@ -1,9 +1,4 @@
 
-  
----
-layout: default
----
-
 <head>
 </head>
 
