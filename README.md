@@ -1,2 +1,2 @@
-# Game-Design-Assignment-2
+# Ryan Jenkins Game Assignment
 To see our game go to: 
